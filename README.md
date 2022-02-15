@@ -17,9 +17,9 @@
 
 ### 📊 GitHub Stats:
 ---
-![Adeys Github Stats](https://github-readme-stats.vercel.app/api?username=adeys&theme=onedark&show_icons=true&count_private=true)
+![Rapha's Github Stats](https://github-readme-stats.vercel.app/api?username=adeys&theme=onedark&show_icons=true&count_private=true)
 
-![Adeys Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adeys&theme=onedark)
-![Adeys Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adeys&theme=onedark)
-![Adeys Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adeys&theme=onedark)
+![Rapha's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adeys&theme=solarized_dark)
+![Rapha's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adeys&theme=solarized_dark)
+![Rapha's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adeys&theme=solarized_dark)
   
