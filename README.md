@@ -11,9 +11,8 @@
 
 ### 🏆 GitHub Profile Trophy:
 ---
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=adeys&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=adeys&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📊 GitHub Stats:
 ---
